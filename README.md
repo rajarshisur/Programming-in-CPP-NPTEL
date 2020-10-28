@@ -1,19 +1,15 @@
-# Programming-in-CPP
+# Programming-in-C++
 This repository contains the solutions of all the programming and quiz assignments of Programming in C++ NPTEL course by By Prof. Partha Pratim Das, IIT Kharagpur
 
 ### WEEK 1:
 
  - **Programming in C++ - Week 1 Quiz**
 
- - **C++ Week 1:Q1** To find the perimeter and area of a circle given a value of radius. You should use Math.PI constant in your program. If radius is zero or less than zero then print " please enter non zero positive number ".
+ - **C++ Week 1:Q1** Consider the following code snippet. Fill in the blank at LINE-1 to create a stack and at LINE-2 to fill the stack with the value of array str.
 
- - **C++ Week 1:Q2** To find the largest among three numbers x, y, and z. You should use if-then-else construct in Java.
+ - **C++ Week 1:Q2** Consider the following program and fill the blank at LINE-1 to check if s1 is not greater than s2. Look at the the sample input and output to understand the comparison operation and write proper return statements at LINE-2 and LINE-3.
 
- - **C++ Week 1:Q3** Consider First n even numbers starting from zero(0) and calculate sum of all the numbers divisible by 3 from 0 to n. Print the sum.
-
- - **C++ Week 1:Q4** To check whether the number is an Armstrong number or not.
-
- - **C++ Week 1:Q5** To find the highest mark and average mark secured by Hari in "s" number of subjects.
+ - **C++ Week 1:Q3** Consider the following program and fill in the blanks at LINE-1 to define a function pointer type Fun_Ptr such that it can be used to create a pointer to point add() function. At LINE-2 create function pointer fp to point to function add()
 
 ### WEEK 2:
 
